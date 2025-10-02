@@ -74,8 +74,7 @@
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
-        "hole_near_hole": "error",
-        "hole_to_hole": "error",
+        "hole_to_hole": "warning",
         "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
@@ -406,7 +405,6 @@
       "bus_entry_needed": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
-      "conflicting_netclasses": "error",
       "different_unit_footprint": "error",
       "different_unit_net": "error",
       "duplicate_reference": "error",
@@ -453,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "drone.kicad_pro",
+    "filename": "mcu-sensors-boards.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -600,7 +598,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "C:/Users/jvilf/Downloads/",
+    "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -613,7 +611,7 @@
   },
   "sheets": [
     [
-      "2d6953ec-d1de-4934-8bee-6df92855ecfe",
+      "70ad671e-4a8b-4d2d-82dd-6d0b70c9b95e",
       "Root"
     ]
   ],

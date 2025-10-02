@@ -1,0 +1,720 @@
+** Drc report for power-board.kicad_pcb **
+** Created on 2025-09-29T16:59:32-0400 **
+
+** Found 176 DRC violations **
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(97.5000 mm, 59.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.3000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(97.5000 mm, 57.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(100.5000 mm, 59.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(102.0000 mm, 59.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(96.0000 mm, 59.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(96.0000 mm, 57.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(96.0000 mm, 55.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(99.0000 mm, 59.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.8000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(99.0000 mm, 57.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.3000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(100.5000 mm, 57.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(102.0000 mm, 57.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(100.5000 mm, 55.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(102.0000 mm, 55.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(97.5000 mm, 55.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(99.0000 mm, 55.0000 mm): PTH pad 2 [<no net>] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(77.0000 mm, 92.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(75.0000 mm, 90.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(75.0000 mm, 92.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.5000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(79.0000 mm, 86.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(81.0000 mm, 86.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(81.0000 mm, 88.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.5000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(79.0000 mm, 90.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(81.0000 mm, 90.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(79.0000 mm, 92.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(81.0000 mm, 92.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(77.0000 mm, 84.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.5000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(77.0000 mm, 86.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.5000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(77.0000 mm, 88.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.5000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(77.0000 mm, 90.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.5000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(79.0000 mm, 88.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(75.0000 mm, 84.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(75.0000 mm, 86.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(75.0000 mm, 88.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(79.0000 mm, 84.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(81.0000 mm, 84.0000 mm): PTH pad 3 [<no net>] of J9
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(96.0000 mm, 75.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(102.0000 mm, 73.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(102.0000 mm, 71.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(97.5000 mm, 75.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(99.0000 mm, 75.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(100.5000 mm, 75.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(102.0000 mm, 75.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.3000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(97.5000 mm, 73.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(97.5000 mm, 71.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.8000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(99.0000 mm, 73.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.3000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(100.5000 mm, 73.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(96.0000 mm, 73.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(96.0000 mm, 71.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(99.0000 mm, 71.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(100.5000 mm, 71.0000 mm): PTH pad 2 [<no net>] of J7
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(74.0000 mm, 63.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(72.5000 mm, 63.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(71.0000 mm, 63.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(69.5000 mm, 63.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(68.0000 mm, 63.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(68.0000 mm, 65.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(68.0000 mm, 67.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.3000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(72.5000 mm, 65.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(72.5000 mm, 67.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.8000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(71.0000 mm, 65.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.3000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(69.5000 mm, 65.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(74.0000 mm, 65.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(74.0000 mm, 67.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(71.0000 mm, 67.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(69.5000 mm, 67.0000 mm): PTH pad 2 [<no net>] of J5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.3000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(80.0000 mm, 52.5000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(82.0000 mm, 54.0000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(78.0000 mm, 48.0000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(78.0000 mm, 49.5000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(78.0000 mm, 51.0000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(78.0000 mm, 52.5000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(80.0000 mm, 48.0000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.3000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(80.0000 mm, 49.5000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 1.8000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(80.0000 mm, 51.0000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(78.0000 mm, 54.0000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(80.0000 mm, 54.0000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(82.0000 mm, 48.0000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(82.0000 mm, 49.5000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(82.0000 mm, 51.0000 mm): PTH pad 2 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(82.0000 mm, 52.5000 mm): PTH pad 2 [<no net>] of J1
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(70.0000 mm, 46.0000 mm): Segment on Edge.Cuts
+    @(100.0000 mm, 46.3000 mm): Reference field of H2
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(70.0000 mm, 46.0000 mm): Segment on Edge.Cuts
+    @(70.0000 mm, 46.3000 mm): Reference field of H1
+[lib_footprint_issues]: Footprint '01x02_ESC_Pads' not found in library 'Solder_Pads'.
+    Local override; warning
+    @(71.0000 mm, 57.0000 mm): Footprint J2
+[lib_footprint_issues]: Footprint 'drone_pdb_pad' not found in library 'Solder_Pads'.
+    Local override; warning
+    @(85.0000 mm, 88.0000 mm): Footprint J9
+[lib_footprint_issues]: Footprint '01x02_ESC_Pads' not found in library 'Solder_Pads'.
+    Local override; warning
+    @(99.0000 mm, 65.0000 mm): Footprint J8
+[lib_footprint_issues]: Footprint '01x02_ESC_Pads' not found in library 'Solder_Pads'.
+    Local override; warning
+    @(71.0000 mm, 73.0000 mm): Footprint J6
+[lib_footprint_issues]: Footprint '01x02_ESC_Pads' not found in library 'Solder_Pads'.
+    Local override; warning
+    @(90.0000 mm, 51.0000 mm): Footprint J4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(100.0000 mm, 76.3000 mm): Reference field of H4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(70.0000 mm, 76.3000 mm): Reference field of H3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(98.5000 mm, 57.0000 mm): Reference field of J3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(70.5000 mm, 55.0000 mm): Reference field of J2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(98.5000 mm, 63.0000 mm): Reference field of J8
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(70.5000 mm, 71.0000 mm): Reference field of J6
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(71.5000 mm, 65.0000 mm): Reference field of J5
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(80.0000 mm, 50.5000 mm): Reference field of J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(92.0000 mm, 50.5000 mm): Reference field of J4
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(96.0000 mm, 59.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(96.0000 mm, 57.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(102.0000 mm, 59.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(102.0000 mm, 57.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(102.0000 mm, 55.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(97.5000 mm, 59.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(97.5000 mm, 57.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(99.0000 mm, 59.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(100.5000 mm, 59.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(99.0000 mm, 57.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(100.5000 mm, 57.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(96.0000 mm, 55.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(97.5000 mm, 55.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(99.0000 mm, 55.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+    @(100.5000 mm, 55.0000 mm): PTH pad 2 [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(77.0000 mm, 84.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(81.0000 mm, 90.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(75.0000 mm, 88.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(75.0000 mm, 90.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(75.0000 mm, 92.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(77.0000 mm, 92.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(77.0000 mm, 86.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(77.0000 mm, 88.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(77.0000 mm, 90.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(79.0000 mm, 90.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(79.0000 mm, 84.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(81.0000 mm, 84.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(81.0000 mm, 86.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(81.0000 mm, 88.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(79.0000 mm, 92.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(81.0000 mm, 92.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(75.0000 mm, 84.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(75.0000 mm, 86.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(79.0000 mm, 86.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+    @(79.0000 mm, 88.0000 mm): PTH pad 3 [<no net>] of J9
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(102.0000 mm, 73.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(102.0000 mm, 71.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(96.0000 mm, 75.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(97.5000 mm, 75.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(99.0000 mm, 75.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(100.5000 mm, 75.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(102.0000 mm, 75.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(99.0000 mm, 73.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(100.5000 mm, 73.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(99.0000 mm, 71.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(100.5000 mm, 71.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(97.5000 mm, 73.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(97.5000 mm, 71.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(96.0000 mm, 73.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(96.0000 mm, 71.0000 mm): PTH pad 2 [<no net>] of J7
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(74.0000 mm, 65.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(74.0000 mm, 63.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(72.5000 mm, 63.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(71.0000 mm, 63.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(69.5000 mm, 63.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(71.0000 mm, 65.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(69.5000 mm, 65.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(74.0000 mm, 67.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(72.5000 mm, 67.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(71.0000 mm, 67.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(68.0000 mm, 63.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(68.0000 mm, 65.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(72.5000 mm, 65.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(69.5000 mm, 67.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(68.0000 mm, 67.0000 mm): PTH pad 2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(78.0000 mm, 51.0000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(78.0000 mm, 52.5000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(80.0000 mm, 48.0000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(82.0000 mm, 48.0000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(78.0000 mm, 48.0000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(78.0000 mm, 49.5000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(78.0000 mm, 54.0000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(80.0000 mm, 54.0000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(82.0000 mm, 54.0000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(80.0000 mm, 49.5000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(80.0000 mm, 51.0000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(80.0000 mm, 52.5000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(82.0000 mm, 52.5000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(82.0000 mm, 49.5000 mm): PTH pad 2 [<no net>] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+    @(82.0000 mm, 51.0000 mm): PTH pad 2 [<no net>] of J1
+
+** Found 5 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(84.0000 mm, 63.9750 mm): PTH pad 2 [/VBat] of P1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(71.0000 mm, 65.0000 mm): Pad 1 [/VBat] of J5 on F.Cu
+    @(78.0000 mm, 88.0000 mm): Pad 1 [/VBat] of J9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.0000 mm, 63.9750 mm): PTH pad 2 [/VBat] of P1
+    @(80.0000 mm, 51.0000 mm): Pad 1 [/VBat] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.0000 mm, 63.9750 mm): PTH pad 2 [/VBat] of P1
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(99.0000 mm, 73.0000 mm): Pad 1 [/VBat] of J7 on F.Cu
+    @(99.0000 mm, 57.0000 mm): Pad 1 [/VBat] of J3 on F.Cu
+
+** Found 0 Footprint errors **
+
+** End of Report **
